@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "a962de5c01b3105c62e1b83411823e6c"
+build_time: [1502106995, 767685000]
+inputs:
+  "/Users/liuchuanliang/wayne/AR/demo/ARDemo-Moon/ARDemo-Moon/ViewController.swift": [1502106991, 0]
+  "/Users/liuchuanliang/wayne/AR/demo/ARDemo-Moon/ARDemo-Moon/AppDelegate.swift": [1502106991, 0]
